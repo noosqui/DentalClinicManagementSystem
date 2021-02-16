@@ -1,0 +1,274 @@
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\EnvDTE.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\stdole.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\EnvDTE.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\stdole.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\EnvDTE80.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\VSLangProj.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\VSLangProj80.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\VSLangProj2.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\EnvDTE.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\stdole.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\EnvDTE.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\stdole.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\CapaNegocio\obj\Debug\CapaNegocio.pdb

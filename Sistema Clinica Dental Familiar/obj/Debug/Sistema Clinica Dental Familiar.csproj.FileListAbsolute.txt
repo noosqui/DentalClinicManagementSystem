@@ -1,0 +1,367 @@
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Sistema Clinica Dental Familiar.exe.config
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.exe
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.pdb
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Sistema Clinica Dental Familiar.exe
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Sistema Clinica Dental Familiar.pdb
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csprojResolveAssemblyReference.cache
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.mnudoctor.resources
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Menu_Dr.frmajustes.resources
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmcaja.resources
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frminicio.resources
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frminv.resources
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmpaciente.resources
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmtratamiento.resources
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.loginmnu.resources
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Properties.Resources.resources
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.GenerateResource.Cache
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.pdb
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.pdb
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Sistema Clinica Dental Familiar.exe.config
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Sistema Clinica Dental Familiar.exe
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Sistema Clinica Dental Familiar.pdb
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.pdb
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.pdb
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csprojAssemblyReference.cache
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.mnudoctor.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Menu_Dr.frmajustes.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmcaja.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frminicio.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frminv.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmpaciente.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmtratamiento.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.loginmnu.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Properties.Resources.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.GenerateResource.cache
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.CoreCompileInputs.cache
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.CopyComplete
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.exe
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.pdb
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Bunifu.Core.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Bunifu.Core.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Reportes.frmReportecaja.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Reportes.frmReporteinv.resources
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\EnvDTE.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\stdole.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.dll.config
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.dll.config
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Downloads\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\EnvDTE.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\stdole.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\EnvDTE80.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\VSLangProj.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\VSLangProj80.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\VSLangProj2.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.Sistema Clinica Dental Familiar.exe.config
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Reportes.frmReportecaja.resources
+C:\Users\Reyes\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Reportes.frmReporteinv.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Sistema Clinica Dental Familiar.exe.config
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Sistema Clinica Dental Familiar.exe
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Sistema Clinica Dental Familiar.pdb
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Bunifu.Core.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\EnvDTE.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\stdole.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.pdb
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.dll.config
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.pdb
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.dll.config
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csprojAssemblyReference.cache
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.mnudoctor.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Menu_Dr.frmajustes.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmcaja.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frminicio.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frminv.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmpaciente.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmtratamiento.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.loginmnu.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Properties.Resources.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Reportes.frmReportecaja.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Reportes.frmReporteinv.resources
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.GenerateResource.cache
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.CoreCompileInputs.cache
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.CopyComplete
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.exe
+C:\Users\Javier Eduardo\Desktop\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.pdb
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Bunifu.Core.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\EnvDTE.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\stdole.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Microsoft.MSXML.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.pdb
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaNegocio.dll.config
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.pdb
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\CapaDatos.dll.config
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.mnudoctor.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Menu_Dr.frmajustes.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmcaja.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frminicio.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frminv.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmpaciente.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.frmtratamiento.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.loginmnu.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Properties.Resources.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Reportes.frmReportecaja.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema_Clinica_Dental_Familiar.Reportes.frmReporteinv.resources
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\RdlCompile.cache
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\RdlCompile.compiled
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\Sistema Clinica Dental Familiar.csproj.CopyComplete
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\DCMS - Dental Clinic Management Software.exe.config
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\DCMS - Dental Clinic Management Software.exe.manifest
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\DCMS - Dental Clinic Management Software.application
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\DCMS - Dental Clinic Management Software.exe
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\bin\Debug\DCMS - Dental Clinic Management Software.pdb
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\DCMS - Dental Clinic Management Software.exe.manifest
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\DCMS - Dental Clinic Management Software.application
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\DCMS - Dental Clinic Management Software.exe
+C:\Users\andre\source\repos\Sistema Clinica Dental Familiar\Sistema Clinica Dental Familiar\obj\Debug\DCMS - Dental Clinic Management Software.pdb
